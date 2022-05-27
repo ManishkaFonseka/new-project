@@ -1,0 +1,16 @@
+h5 {
+    font-size: 20px;
+}
+
+input{
+    font-size: 24px;
+}
+
+button{
+    font-size: 16px;
+    background-color: aqua;
+    border-color: #222 solid;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+}
